@@ -5,6 +5,6 @@ cc -Wall -Wexta -Werror *.c
 
 Warrant :
 THese project are not validated by norminette cause they are made 
-in purpose to test my logic and share them . (And maybe it is like that ,
-so you cant copy paste blindly . Enjoy your copy and paste it with your
-own touch of logic to avoid norminette logic.)
+in purpose of testing my logic and share them . (And maybe it is like that ,
+so you dont copy paste blindly . Enjoy your copy and paste it with your
+own touch of logic to avoid norminette error.)
