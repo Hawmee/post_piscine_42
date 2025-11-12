@@ -1,0 +1,1 @@
+a function that behave like str_join
